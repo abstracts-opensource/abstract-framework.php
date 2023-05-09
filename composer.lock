@@ -4,24 +4,24 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "948201ef2f5eb8113e0acfa043e984c2",
+    "content-hash": "d205f1b67a31d89fa42e6ddfd6869b24",
     "packages": [
         {
             "name": "abstract/abstract",
-            "version": "v0.0.4",
+            "version": "v0.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/abstracts-opensource/abstract-abstract.php.git",
-                "reference": "bbdfdbdb0305316331c8932094c0428d25b4de12"
+                "reference": "2c46c1326a9d80f2f7ef006f44c7ed2416807686"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/abstracts-opensource/abstract-abstract.php/zipball/bbdfdbdb0305316331c8932094c0428d25b4de12",
-                "reference": "bbdfdbdb0305316331c8932094c0428d25b4de12",
+                "url": "https://api.github.com/repos/abstracts-opensource/abstract-abstract.php/zipball/2c46c1326a9d80f2f7ef006f44c7ed2416807686",
+                "reference": "2c46c1326a9d80f2f7ef006f44c7ed2416807686",
                 "shasum": ""
             },
             "require": {
-                "abstract/utilities": "^0.0.2"
+                "abstract/utilities": "^0.0.3"
             },
             "type": "library",
             "autoload": {
@@ -39,25 +39,25 @@
                     "email": "developers@abstract.codes"
                 }
             ],
-            "description": "Componential language",
+            "description": "Componential language using HTML-based syntax to access PHP class and method",
             "support": {
                 "issues": "https://github.com/abstracts-opensource/abstract-abstract.php/issues",
-                "source": "https://github.com/abstracts-opensource/abstract-abstract.php/tree/v0.0.4"
+                "source": "https://github.com/abstracts-opensource/abstract-abstract.php/tree/v0.0.1"
             },
-            "time": "2023-05-06T16:42:09+00:00"
+            "time": "2023-05-09T08:55:42+00:00"
         },
         {
             "name": "abstract/utilities",
-            "version": "v0.0.2",
+            "version": "v0.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/abstracts-opensource/abstract-utilities.php.git",
-                "reference": "f8c4624515602bf9ad2106d09f92a54003656fc0"
+                "reference": "d1cc15a3f17273c5b01b3cb6dd3eee2a9f2c8e2c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/abstracts-opensource/abstract-utilities.php/zipball/f8c4624515602bf9ad2106d09f92a54003656fc0",
-                "reference": "f8c4624515602bf9ad2106d09f92a54003656fc0",
+                "url": "https://api.github.com/repos/abstracts-opensource/abstract-utilities.php/zipball/d1cc15a3f17273c5b01b3cb6dd3eee2a9f2c8e2c",
+                "reference": "d1cc15a3f17273c5b01b3cb6dd3eee2a9f2c8e2c",
                 "shasum": ""
             },
             "type": "library",
@@ -67,6 +67,9 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
             "authors": [
                 {
                     "name": "Abstracts",
@@ -76,9 +79,9 @@
             "description": "Utilities for Abstract",
             "support": {
                 "issues": "https://github.com/abstracts-opensource/abstract-utilities.php/issues",
-                "source": "https://github.com/abstracts-opensource/abstract-utilities.php/tree/v0.0.2"
+                "source": "https://github.com/abstracts-opensource/abstract-utilities.php/tree/v0.0.3"
             },
-            "time": "2023-05-06T16:30:57+00:00"
+            "time": "2023-05-09T07:31:48+00:00"
         },
         {
             "name": "doctrine/cache",

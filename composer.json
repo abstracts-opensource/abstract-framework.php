@@ -15,8 +15,8 @@
         }
     ],
     "require": {
-        "abstract/abstract": "^0.0.4",
-        "abstract/utilities": "^0.0.2",
+        "abstract/abstract": "^0.0.1",
+        "abstract/utilities": "^0.0.3",
         "doctrine/dbal": "^3.6"
     }
 }
