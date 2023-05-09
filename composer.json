@@ -1,0 +1,22 @@
+{
+    "name": "abstract/framework",
+    "description": "Framework for no-code web development",
+    "type": "library",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Abstract\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abstracts",
+            "email": "developers@abstracts.one"
+        }
+    ],
+    "require": {
+        "abstract/abstract": "^0.0.4",
+        "abstract/utilities": "^0.0.2",
+        "doctrine/dbal": "^3.6"
+    }
+}
